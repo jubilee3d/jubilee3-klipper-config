@@ -16,3 +16,7 @@ From your klipper machine, clone this repository into a folder named `klipper_co
 ```bash
 cd ~/ && git clone https://github.com/jubilee3d/jubilee3-klipper-config.git klipper_config
 ```
+
+## References
+* [Original LDO Leviathan Config](https://github.com/MotorDynamicsLab/Leviathan/tree/master/Klipper_config)
+* [LDO Klipper Config Guide](https://docs.ldomotors.com/en/guides/klipper_multi_cfg_guide)
