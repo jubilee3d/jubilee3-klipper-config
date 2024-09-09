@@ -9,6 +9,7 @@ base Klipper configuration for Jubilee-3
 * Install KIAUH.
 * Install Klipper.
 * Install [KTC](https://github.com/TypQxQ/KTC/tree/main)
+  * KTC enables us to specify tool-specific XYZ offsets, input shaper parameters, and more.
 
 ## Installation
 
